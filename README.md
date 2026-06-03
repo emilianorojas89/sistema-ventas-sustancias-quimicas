@@ -45,3 +45,5 @@ Desde Google Colab, ubicarse en la carpeta del repositorio y ejecutar:
 python scripts/analisis_datos.py
 
 El script lee el dataset, calcula los indicadores y genera el gráfico en la carpeta resultados.
+
+Versión final revisada para la entrega del Trabajo Práctico de Organización Empresarial - 2026.
